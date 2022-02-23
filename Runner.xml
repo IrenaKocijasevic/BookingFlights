@@ -12,7 +12,7 @@
         <classes>
             <class name="test.BookingFlightsTests">
                 <methods>
-                    <include name="testna metoda 1"/>
+                    <include name="goToFlightsPage"/>
                 </methods>
             </class>
         </classes>
